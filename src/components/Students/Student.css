@@ -1,0 +1,106 @@
+.Student {
+  display: flex;
+}
+.StudentContainer {
+  flex: 6;
+}
+
+/* Student */
+
+.student {
+  margin: 3rem 3rem;
+}
+.studentbuttons {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+.name {
+  padding-left: 2rem;
+}
+.studentrow {
+  background-color: rgba(54, 41, 41, 0.137);
+  padding: 1.3rem;
+  border-radius: 1rem;
+  box-shadow: 4px 6px 5px 0px rgba(128, 128, 128, 0.75);
+  -webkit-box-shadow: 4px 6px 5px 0px rgba(128, 128, 128, 0.75);
+  -moz-box-shadow: 4px 6px 5px 0px rgba(128, 128, 128, 0.75);
+  color: white;
+  width: 95%;
+}
+/* AddStudent */
+.Backbutton {
+  margin-top: 2rem;
+  margin-left: 7rem;
+  padding: 5px 25px;
+ 
+}
+.buttonIcon {
+  padding-right: 8px;
+}
+.AddStudent {
+  width: 50%;
+  margin: 3% 27%;
+  background-color: #371b58;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1rem;
+  border-radius: 20px;
+  box-shadow: 20px black;
+}
+.AddStudentInfo {
+  padding: 1rem;
+}
+/* #firstName{
+    width:100%;
+    align-items: center;
+} */
+
+.Addbutton {
+  margin-bottom: 1rem;
+  width: 60%;
+  font-weight: 700;
+  word-spacing: 1.5rem;
+  
+}
+.buttonAdd {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.AddStudentlabel {
+  color: white;
+  font-weight: 700;
+}
+
+/* studentdetails */
+.studentdetailcard {
+  width: 30rem;
+  margin: 5% 0;
+  padding: 2rem 2rem;
+  border-radius: 20px;
+  box-shadow: 50px black;
+}
+.studentdetail {
+  display: flex;
+  justify-content: center;
+}
+.studentdetailbody {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.studentdetailcontent {
+  font-weight: 600;
+  text-align: center;
+  word-spacing: 1rem;
+  background-color: #dfd9eb;
+  padding: 1rem;
+}
+.studentdetailinfo {
+  text-align: center;
+  padding: 1rem;
+}
+

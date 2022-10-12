@@ -1,0 +1,22 @@
+[{
+  "id": "101",
+  "name": "Shara Pentecust",
+  "topic-taught": "Web-Development",
+  "email": "spentecust0@topsy.com",
+  "NoOfLectures": 10,
+  "Date": "12/24/2021"
+}, {
+  "id": "102",
+  "name": "Bunge's Smartweed",
+  "topic-taught": "Machine-learning",
+  "email": "deccleston1@pinterest.com",
+  "NoOfLectures": 22,
+  "Date": "8/1/2022"
+}, {
+  "id": "103",
+  "name": "Plain Mariposa Lily",
+  "topic-taught": "Full-Stack",
+  "email": "afitchell2@icio.us",
+  "NoOfLectures": 34,
+  "Date": "4/18/2022"
+}]
