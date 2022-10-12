@@ -6,3 +6,15 @@
 
      flex:6;
  }
+ .widgets{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 15px;
+ }
+ .progresscard{
+    margin: 15px;
+    width: 200px;
+    height: 200px;
+ }
